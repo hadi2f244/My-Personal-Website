@@ -1,6 +1,6 @@
 # Mohammad Hadi Azaddel
 
-![Me!](./static/me.jpg =250x250)
+![Me!](./static/me.jpg){:height="25%" width="25%"}
  
 
 Interests:
